@@ -1,4 +1,4 @@
-# GraphQL - Intro Exercise
+# GraphQL - Query/Mutations Exercise
 
 **Goal:** Create a standalone Apollo Server with CRUD functionality and a sample dataset. Some of the code are already provided, you just have to finish the queries and mutations.
 
