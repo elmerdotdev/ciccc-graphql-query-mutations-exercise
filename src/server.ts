@@ -24,7 +24,7 @@ const typeDefs = `#graphql
     products: [Product],
     getProductById(id: ID): Product,
     getProductTotalPrice(id: ID): Float # multiply product price with its qty
-    getTotalQtyOfProducts(): Int # sum of all qty of all products
+    getTotalQtyOfProducts: Int # sum of all qty of all products
   }
 
   type Mutation {
